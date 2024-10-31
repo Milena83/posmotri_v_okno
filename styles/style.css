@@ -188,7 +188,6 @@ ol {
 
 .button:focus {
   outline: none;
-  border: none;
 }
 
 .button:focus-visible {
@@ -221,7 +220,7 @@ ol {
 
 .content__list {
   position: relative;
-  max-width: 394px;
+  width: 402px;
   max-height: 298px;
   overflow-y: auto;
   padding-bottom: 2px;
